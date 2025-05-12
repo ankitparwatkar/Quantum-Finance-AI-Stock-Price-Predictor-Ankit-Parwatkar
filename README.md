@@ -4,7 +4,7 @@
 
 A futuristic web application built with Streamlit that predicts stock prices using machine learning and showcases real-time analytics with an immersive UI.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://quantum-stock-predictor.streamlit.app/) *Replace with your actual Streamlit URL*
+[![Streamlit App](https://quantum-finance-ai-stock-price-predictor-ankit-parwatkar.streamlit.app/)]
 
 ## 🚀 Features
 
@@ -19,7 +19,7 @@ A futuristic web application built with Streamlit that predicts stock prices usi
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ankitparwatkar/quantum-stock-predictor.git
+   git clone https://github.com/ankitparwatkar/Quantum-Finance-AI-Stock-Price-Predictor-Ankit-Parwatkar.git
    cd quantum-stock-predictor
    ```
 
