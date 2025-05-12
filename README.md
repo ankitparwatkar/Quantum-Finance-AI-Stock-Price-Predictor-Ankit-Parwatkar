@@ -1,4 +1,4 @@
-# Quantum-Finance-AI-Stock-Price-Predictor
+# Quantum Finance AI Stock Price Predictor
 ```markdown
 # 🌌 Quantum Stock Predictor
 
