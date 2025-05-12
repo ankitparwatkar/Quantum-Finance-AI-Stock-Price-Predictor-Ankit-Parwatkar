@@ -160,7 +160,7 @@ if 'predict' in st.session_state:
     <div class="cyber-card" style="margin: 2rem 0; text-align: center;">
         <h2 style="color: #4FD3C4;">INSTANT PREDICTION RESULT</h2>
         <h1 style="font-size: 4rem; color: {"#4FD3C4" if result >= last_close else "#ff4b4b"};">
-            ${result:,.2f} {"📈" if result >= last_close else "📉"}
+            ₹{result:,.2f} {"📈" if result >= last_close else "📉"}
         </h1>
         <div style="color: {"#4FD3C4" if change >=0 else "#ff4b4b"}; font-size: 1.5rem;">
             {change:+.2f}% vs Last Close (${last_close:,.2f})
