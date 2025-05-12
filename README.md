@@ -1,10 +1,10 @@
-# Quantum-Finance-AI-Stock-Price-Predictor-Ankit-Parwatkar
+#Quantum Finance AI Stock Price Predictor
 ```markdown
 # 🌌 Quantum Stock Predictor
 
 A futuristic web application built with Streamlit that predicts stock prices using machine learning and showcases real-time analytics with an immersive UI.
 
-![Demo](https://via.placeholder.com/800x400.png?text=Quantum+Stock+Predictor+Demo) *Replace with actual screenshot*
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://quantum-stock-predictor.streamlit.app/) *Replace with your actual Streamlit URL*
 
 ## 🚀 Features
 
@@ -19,7 +19,7 @@ A futuristic web application built with Streamlit that predicts stock prices usi
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ankitparwatkar/Quantum-Finance-AI-Stock-Price-Predictor.git
+   git clone https://github.com/ankitparwatkar/quantum-stock-predictor.git
    cd quantum-stock-predictor
    ```
 
@@ -44,7 +44,7 @@ A futuristic web application built with Streamlit that predicts stock prices usi
 
 1. **Run the app**:
    ```bash
-   streamlit run sreamlit.py  # Note: Filename typo intentional (as provided in code)
+   streamlit run sreamlit.py
    ```
 
 2. **Adjust input values** using sliders or number inputs in the **Control Panel** (sidebar).
@@ -76,12 +76,11 @@ Contributions are welcome!
 4. Push to the branch (`git push origin feature/amazing-feature`).  
 5. Open a Pull Request.
 
-## 📜 License
-
-MIT License. See `LICENSE` for details.
-
 ---
 
-Developed with ❤️ by [Ankit Parwatkar](https://linkedin.com/in/ankitparwatkar)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/ankitparwatkar)
+🔗 **Connect with Me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit_Parwatkar-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ankitparwatkar)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/ankitparwatkar)
+
+*"The stock market is a device for transferring money from the impatient to the patient." - Warren Buffett*
 ```
