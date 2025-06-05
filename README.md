@@ -10,7 +10,7 @@ A futuristic web application built with Streamlit that predicts stock prices usi
 
 - **Quantum-Themed UI**: Animated particles, cyber-card design, and glowing metrics.
 - **Interactive Controls**: Synced sliders and number inputs for feature adjustments.
-- **Instant Predictions**: Get stock price predictions using a Support Vector Regression (SVR) model.
+- **Instant Predictions**: Get stock price predictions using a Linear Regression model.
 - **Live Market Trends**: Interactive historical stock price visualization with Plotly.
 - **Performance Metrics**: MAE, MSE, RMSE, and R² scores to evaluate model accuracy.
 - **Responsive Design**: Optimized for wide-screen layouts and mobile devices.
