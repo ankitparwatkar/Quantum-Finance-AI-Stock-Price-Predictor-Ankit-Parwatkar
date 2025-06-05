@@ -58,7 +58,7 @@ A futuristic web application built with Streamlit that predicts stock prices usi
 ## 🛠️ Technologies Used
 
 - **Frontend**: Streamlit, Plotly, Custom CSS animations
-- **Backend**: scikit-learn (SVR model), pandas, numpy
+- **Backend**: scikit-learn (LR model), pandas, numpy
 - **Styling**: Cyber-themed UI with gradient effects and particles
 
 ## 📝 Notes
